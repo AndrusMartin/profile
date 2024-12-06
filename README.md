@@ -15,10 +15,32 @@ I specialize in full-stack development using modern frameworks and tools. My exp
 
 ## 🛠️ Skills and Technologies
 
-- **Frontend:** React, AngularJS, JavaScript, HTML, CSS, Tailwind CSS, Alpine.js
-- **Backend:** Django, PHP, Python, Node.js, ASP.NET
-- **Tools & CMS:** Craft CMS, Mailchimp, REST APIs
-- **Other Skills:** Logical problem solving, responsive design, cross-browser testing
+### **Frontend**
+![React](https://img.icons8.com/color/48/000000/react-native.png) 
+![AngularJS](https://img.icons8.com/color/48/000000/angularjs.png) 
+![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png) 
+![HTML5](https://img.icons8.com/color/48/000000/html-5.png) 
+![CSS3](https://img.icons8.com/color/48/000000/css3.png) 
+![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) 
+![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwind-css.png)
+
+### **Backend**
+![Django](https://img.icons8.com/ios-filled/50/000000/django.png)
+![PHP](https://img.icons8.com/officel/48/000000/php-logo.png)
+![Python](https://img.icons8.com/color/48/000000/python--v1.png)
+![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
+![ASP.NET](https://img.icons8.com/color/48/000000/asp-net.png)
+
+### **Tools & CMS**
+![Craft CMS](https://img.icons8.com/windows/48/000000/code.png) 
+![Mailchimp](https://img.icons8.com/color/48/000000/mailchimp.png) 
+![REST APIs](https://img.icons8.com/ios-filled/48/000000/api.png)
+![Git](https://img.icons8.com/color/48/000000/git.png)
+![Bitbucket](https://img.icons8.com/color/48/000000/bitbucket.png)
+
+### **Databases**
+![PostgreSQL](https://img.icons8.com/color/48/000000/postgresql.png)
+![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png)
 
 ---
 
@@ -78,6 +100,8 @@ I specialize in full-stack development using modern frameworks and tools. My exp
 
 ---
 
-![Andrus Martin's Professional Banner](your-image-url-here)
+![Professional Banner](https://via.placeholder.com/1200x300?text=Andrus+Martin+-+Full+Stack+Developer)
+
+---
 
 Feel free to connect, collaborate, or check out my projects on GitHub! 🚀
